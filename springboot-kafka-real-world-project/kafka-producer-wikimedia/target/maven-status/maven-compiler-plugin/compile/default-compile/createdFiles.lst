@@ -1,0 +1,4 @@
+com\indium\springboot\KafkaTopicConfig.class
+com\indium\springboot\WikimediaChangesProducer.class
+com\indium\springboot\WikimediaChangesHandler.class
+com\indium\springboot\SpringBootProducerApplication.class

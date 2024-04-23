@@ -1,0 +1,4 @@
+com\indium\springboot\KafkaDatabaseConsumer.class
+com\indium\springboot\entity\WikimediaData.class
+com\indium\springboot\SpringBootConsumerApplication.class
+com\indium\springboot\repository\WikimediaDataRepository.class
